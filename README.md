@@ -3,6 +3,9 @@
 I'm currently working on being involved in the biotechnology industry. <br>I'm looking for help with gaining knowledge about how cybersecurity can impact healthcare in a positive way<br>I'm currently working on my C++ certification<br>Ask me about anything involving Nigerian music<br>Fun Fact: I love doing arts and crafts
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanie-george-830320210) 
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
